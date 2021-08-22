@@ -1,5 +1,7 @@
-# lasereyes
+Let us introduce about Laser Eyes and LASEREYES Token.
 
-What started as a meme to show support for bitcoin has now become a trend and has grown into a strong community.
+Due to the rise of cryptocurrency adaptation, lots of new projects are launching on both BSC and ETH ecosystems. Because of the decentralized nature and lack of regulation in this space many projects are doing rug pulls and scams and running away with the investor's money. Our Vision is to clean this space from rugs and scams and make it safe for investors to invest in any project of their choice
 
-LSE came up with an innovative and rewarding model where token holders are rewarded whenever any transaction occurs on the LSE. So the hodlers can see their balance increase over time. LSE also adds a percentage of the transaction to the LP hence increasing the LP and price of the token. Laser Eyes club will have some amazing products to be launched down the line. Laser Eyes shows and will always show its support to the entire cryptocurrency ecosystem.
+To fight this rug/scams, Laser Eyes came up with an automated tool where you can enter the contract address of any Dx Sale to get an automated analysis of the same. It is currently in the BETA version currently.
+
+Laser Eyes token will be used for service fees and airdrop rewards. One will be required to hold the Laser Eyes tokens to use the platforms. LASEREYES tokens offer features such as auto LP, static rewards, and auto burn on every transaction. LASEREYES is a deflationary token with real use case Beta Version's first product laser eyes scan (https://lasereyesscan.com/) is already out and it is being used by many to detected scams and rugs on the Dx Sale presale
